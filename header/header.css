@@ -6,7 +6,6 @@
 
 .titulo {
     font-size: 30px;
-    background-color: white;
 }
 
 .titulo2 {
@@ -18,5 +17,8 @@
 
 .git {
     text-decoration: none;
-    color: darkcyan;
+    color: rgb(0, 0, 0);
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 5px 5px;
 }
