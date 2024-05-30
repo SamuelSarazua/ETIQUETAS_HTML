@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.scl {
+    font-size: 30px;
+    text-decoration: double;
+    background-color: darkgoldenrod;
+    padding: 5px 5px;
+    border-radius: 10px;
+    color: white;
+}

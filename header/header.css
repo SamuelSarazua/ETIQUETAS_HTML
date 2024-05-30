@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo {
+    font-size: 30px;
+    background-color: white;
+}
+
+.titulo2 {
+    font-size: 30px;
+    background-color: orange;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.git {
+    text-decoration: none;
+    color: darkcyan;
+}
